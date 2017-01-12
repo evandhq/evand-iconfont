@@ -1,0 +1,17 @@
+{
+  "name": "evand-iconfont",
+  "version": "1.4.1",
+  "description": "The icon font used in evand",
+  "main": "index.js",
+  "repository": "https://gitlab.com/Eventfa/evand-icons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "grunt"
+  },
+  "author": "Mohamad Mohebifar",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-webfont": "^1.1.1"
+  }
+}
